@@ -1,0 +1,10 @@
+In this game, your choices will determine your ending. Be careful as your decisions might lead to different outcomes, so choose wisely!
+
+ 
+Click to Choose: Click on the corresponding button to select your answer. Each choice will push the story forward, but your path might not always be the same as someone else's.
+
+Progress Bar: At the bottom of the screen, you'll see a progress bar that shows your current progress through each level. Keep an eye on it to know how much further you have to go.
+
+Timed Questions: Some questions will be timed, so make sure to answer quickly! The timer will count down, and if you don't choose in time, a default answer will be selected for you.
+
+Good Luck!
