@@ -10,7 +10,7 @@ Developed by 3rd year Computer Science students at **UKZN** as part of *COMP315 
 The player's journey spans multiple eras:
 
 - 🏺 Ancient Egypt  
-- ⚔️ Medieval Times  
+- ⚔️ Ancient Rome 
 - 🌆 Cyberpunk Future  
 
 Your choices and quiz performance shape **branching paths** through the story.
